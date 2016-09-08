@@ -9,7 +9,8 @@ Basic run
 Directory structure
 =====================
 
--[Source](http://www.scala-sbt.org/0.13/docs/Directories.html)
+[Source](http://www.scala-sbt.org/0.13/docs/Directories.html)  
+
 ```
 src/
   main/
