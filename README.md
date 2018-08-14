@@ -1,3 +1,9 @@
+## IntelliJ IDE settings 
+
+- Right click on the project
+- `Add Framework support`
+- Add Scala
+
 
 Basic run
 ============
