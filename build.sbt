@@ -5,7 +5,7 @@ lazy val root = (project in file("."))
   .settings(
     name := "scala-basic-sbt-project",
     scalaVersion := "2.12.6",
-    version := "o.1.0-SNAPSHOT",
+    version := "0.1.0-SNAPSHOT",
     
       libraryDependencies += "org.scalanlp" %% "breeze" % "0.12",
       libraryDependencies += "org.scalanlp" %% "breeze-natives" % "0.12"
