@@ -7,7 +7,8 @@ lazy val root = (project in file("."))
     scalaVersion := "2.12.6",
     version := "0.1.0-SNAPSHOT",
     
-      libraryDependencies += "org.scalanlp" %% "breeze" % "0.12",
-      libraryDependencies += "org.scalanlp" %% "breeze-natives" % "0.12"
-     
+      libraryDependencies += "org.scalanlp" %% "breeze" % "0.13.2",
+      libraryDependencies += "org.scalanlp" %% "breeze-natives" % "0.13.2",
+
+    resolvers += "Sonatype Releases" at "https://oss.sonatype.org/content/repositories/releases/" 
   )
