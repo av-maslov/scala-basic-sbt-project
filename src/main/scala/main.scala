@@ -1,7 +1,7 @@
 import breeze.linalg._
 import breeze.plot._
 
-object SimpleMain {
+object MainObj {
 	
   def makePlot():Unit={
     val f = Figure()
