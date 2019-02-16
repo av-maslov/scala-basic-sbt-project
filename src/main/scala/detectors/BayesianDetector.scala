@@ -1,0 +1,4 @@
+package detectors
+
+object BayesianDetector{
+}
